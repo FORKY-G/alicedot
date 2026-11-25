@@ -1,0 +1,9 @@
+node_modules/
+source/node_modules/
+source/dist/
+.env*
+*.xlsx
+*.csv
+*.zip
+.upload-manifest.json
+.upload-payload.json
